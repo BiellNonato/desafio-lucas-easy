@@ -228,3 +228,74 @@ main{
     height: 486px;
     align-items: flex-end;
 }
+
+.furniture-info{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-align: center;
+    margin-top: 67px;
+}
+.furniture-container img{
+    width: 1350px;
+}
+
+
+#retangolo-3{
+margin-top: 30px;
+}
+
+.footer-container{
+    display: flex;
+    gap: 100px;
+    margin: 0px 100px 0px 100px;
+    margin-top: 50px;
+   border-bottom: 2px solid black;
+}
+
+.footer-logo p{
+    width: 285px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section{
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+}
+
+.footer-section ul{
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer-section h2{
+    color: #9F9F9F;
+    text-decoration: none;
+    list-style: none;
+}
+
+.footer-section ul li a{
+     color: black;
+    text-decoration: none;
+    list-style: none;
+}
+
+.subscribe{
+    display: flex;
+    gap: 10px;
+    color: black;
+}
+
+.subscribe p{
+    color:#9F9F9F;
+}
+
+.footer-border p{
+    color: black;
+    padding: 0px 0px 0px 40px;
+}
